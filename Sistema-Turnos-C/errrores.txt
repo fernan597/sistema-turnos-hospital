@@ -1,0 +1,14 @@
+fernando-39-12:00- 13:00 -rojo
+martin-38-12:50-13:20 -verde
+clari-49-13:45-14:50-verde
+meli-47- 15:00-13:20-rojo
+carlo-23-15:45- - amarillo
+
+
+
+agregue en if en 8-5-9 
+y corchete en funcio ingresaprioridad
+buscadnipriori agregue en el primer while oss
+mostrar tiempo espera- i=1;, muestra paciente 0 sin nda
+mostrar atendido ccaso9 cont +1 en for
+igual en carga archivo caso 14

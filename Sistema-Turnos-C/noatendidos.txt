@@ -1,0 +1,6 @@
+Agustin Rio
+D.N.I: 23456789
+Edad: 12
+Luciano Alvarez
+D.N.I: 38450332
+Edad: 20
